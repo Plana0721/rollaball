@@ -10,6 +10,7 @@
 # IDE
 *.csproj
 *.sln
+*.slnx
 *.suo
 *.user
 *.userprefs
