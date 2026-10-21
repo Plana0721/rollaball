@@ -29,3 +29,4 @@ WASD / 方向键控制小球滚动，吃掉场地上的方块得分。
 ## 构建
 
 Windows 64位版本，可在Releases下载。
+![游戏画面](Screenshots/gameplay.png)
